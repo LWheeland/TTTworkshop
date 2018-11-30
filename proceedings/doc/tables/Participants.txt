@@ -10,8 +10,8 @@ Gulf,Daniel Ricard,,,,
 Gulf,David Fishman,,,,
 Gulf,Tobie Surette,,,,
 Newfoundland and Labrador,Mark Simpson,,,,
-Newfoundland and Labrador,Bob Rogers,,,,
-Newfoundland and Labrador,Laura Wheeland,,,,
+Newfoundland and Labrador,Bob Rogers,X,X,X,X
+Newfoundland and Labrador,Laura Wheeland,X,X,X,X
 Newfoundland and Labrador,Krista Baker,,,,
 Newfoundland and Labrador,Luiz Mello,,,,
 Pacific,Kendra Holt,,,,
